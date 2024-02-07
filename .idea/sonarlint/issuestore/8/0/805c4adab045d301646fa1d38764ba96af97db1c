@@ -1,0 +1,10 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢¥Ùå
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(’½™é
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(œç’›ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÅÉöøÿÿÿÿ
+X
+java:S2184"BCast one of the operands of this division operation to a "double".(¢¥Ùå
+]
+java:S2184"BCast one of the operands of this division operation to a "double".(œç’›ûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ðæM

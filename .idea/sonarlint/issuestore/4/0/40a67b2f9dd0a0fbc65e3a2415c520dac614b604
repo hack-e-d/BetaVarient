@@ -1,0 +1,7 @@
+
+o	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÒËÈıÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ÚÒËÈıÿÿÿÿ
+o
+java:S1128"TRemove this unused import 'vijay.projects.betavarient.Entities.UserSecurityDetails'.(ÃÄò¦üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿€õÖşÿÿÿÿ

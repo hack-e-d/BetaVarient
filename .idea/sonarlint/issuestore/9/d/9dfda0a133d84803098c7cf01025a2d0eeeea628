@@ -1,0 +1,12 @@
+
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(›âéÿÿÿÿÿ
+S
+java:S1854"8Remove this useless assignment to local variable "var2".(Ø½¼ßùÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÎÂÌ¥
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(±Ï‹İùÿÿÿÿ
+B
+java:S1128"-Remove this unused import 'org.junit.Assert'.(­ŞL
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ğæM

@@ -1,0 +1,9 @@
+
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(³¬’8–¤Š³À1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çÔ8¡¤Š³À1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Úß¸Æ8¤¤Š³À1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ø•íüÿÿÿÿ8°¤Š³À1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ûÃĞıÿÿÿÿ8±¤Š³À1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ŸƒÖÀûÿÿÿÿ8³¤Š³À1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ãø¯£şÿÿÿÿ8À¤Š³À1
