@@ -9,5 +9,6 @@ public class PaymentEventLogger implements PaymentListener{
     @Override
     public void paymentMade(PaymentEvent paymentEvent) {
         logEvent();
+//        paymentEvent.getPaymentSubject().unregisterPaymentListener(this);  // Code not working
     }
 }

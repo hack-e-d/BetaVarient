@@ -14,8 +14,8 @@ public class ObserverMain {
 
         paymentManager.pay();
 
-        paymentManager.unregisterPaymentListener(paymentEventLogger);
-
+//        paymentManager.unregisterPaymentListener(paymentEventLogger);
+//        Unregistering inside the trigger itself check PaymentEventLogger
         paymentManager.pay();
     }
 }
