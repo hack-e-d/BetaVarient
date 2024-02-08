@@ -43,6 +43,10 @@ public class Product {
         }
     }
 
+    public static Builder builder(){
+        return new Builder();
+    };
+
     @Override
     public String toString() {
         return "Product{" +

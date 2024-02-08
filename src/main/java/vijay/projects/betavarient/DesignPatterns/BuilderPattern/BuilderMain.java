@@ -5,7 +5,7 @@ import java.math.BigDecimal;
 public class BuilderMain {
 
     public static void main(String[] args) {
-        Product product = new Product.Builder()
+        Product product = Product.builder()
                 .withId(1)
                 .withName("P!")
                 .withPrice(BigDecimal.valueOf(12234))
