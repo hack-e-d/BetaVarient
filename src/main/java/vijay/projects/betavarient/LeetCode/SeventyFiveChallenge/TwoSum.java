@@ -1,4 +1,4 @@
-package vijay.projects.betavarient.LeetCode;
+package vijay.projects.betavarient.LeetCode.SeventyFiveChallenge;
 
 import java.util.Arrays;
 import java.util.HashMap;
