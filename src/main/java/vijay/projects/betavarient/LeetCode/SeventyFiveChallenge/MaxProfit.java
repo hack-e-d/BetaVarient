@@ -12,7 +12,7 @@ public class MaxProfit {
             if(prices[l] < prices[r]) {
                 maxP = Math.max(maxP,(prices[r]-prices[l]));
             } else {
-                l+=1;
+                l = r;
             }
             r+=1;
         }
