@@ -6,7 +6,7 @@ public class TwoSumV2 {
 
     public int[] twoSum(int[] nums, int target) {
         int l = 0, r = nums.length-1;
-        int sum = 0;
+        int sum;
         while(r>l) {
             sum = nums[r] + nums[l];
             if (sum == target) {
