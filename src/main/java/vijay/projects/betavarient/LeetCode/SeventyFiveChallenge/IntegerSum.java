@@ -3,7 +3,7 @@ package vijay.projects.betavarient.LeetCode.SeventyFiveChallenge;
 public class IntegerSum {
 
     public int twoSum(int a, int b) {
-        int sum = 0, carry = 0;
+        int sum, carry;
         do {
             sum = a ^ b;
             carry = a & b;
