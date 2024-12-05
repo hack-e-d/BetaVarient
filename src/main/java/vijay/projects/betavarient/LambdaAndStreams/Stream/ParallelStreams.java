@@ -12,9 +12,12 @@ public class ParallelStreams {
 
         Stream<Integer> data = nums.parallelStream();
 
-        data.map((n) -> (n*3))
+        data
+                .filter(n -> n%2 == 0)
+                .map((n) -> (n*3))
                 .sequential()
                 .sorted()
+                .filter((n) -> n > 10)
                 .forEach(System.out::println);
     }
 }
