@@ -17,16 +17,7 @@ public class SummaryRanges {
             {
                 j+=1;
             }
-            String temp = "";
-            if(j == i)
-            {
-                temp = String.valueOf(nums[i]);
-            }
-            else
-            {
-                temp = String.valueOf(nums[i])+"->"+String.valueOf(nums[j]);
-            }
-            result.add(temp);
+            result.add(i == j ? String.valueOf(nums[i]) : String.valueOf(nums[i])+"->"+String.valueOf(nums[j]));
             j+=1;
             i = j;
         }
